@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ahihi/static/css/main.dc4bcf10.css",
+    "main.js": "/ahihi/static/js/main.0906f494.js",
+    "static/js/496.78830a00.chunk.js": "/ahihi/static/js/496.78830a00.chunk.js",
+    "static/media/12055105.jpg": "/ahihi/static/media/12055105.9a9de78a569f75c4f4af.jpg",
+    "index.html": "/ahihi/index.html",
+    "main.dc4bcf10.css.map": "/ahihi/static/css/main.dc4bcf10.css.map",
+    "main.0906f494.js.map": "/ahihi/static/js/main.0906f494.js.map",
+    "496.78830a00.chunk.js.map": "/ahihi/static/js/496.78830a00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4bcf10.css",
+    "static/js/main.0906f494.js"
+  ]
+}
